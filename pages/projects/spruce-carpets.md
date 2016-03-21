@@ -45,11 +45,11 @@ Engage with existing and new volunteers. Assess IT skills and introduce individu
 
 ## Evaluation
 
-This is where the project lead will share information about what was achieved and what was learned.
+Having the IT suite in the canteen area has worked really well as all volunteers can access internet daily. Some of the participants as using the PC's to do job search which has be helped with our IT training. Our IT trainer is on site weekly and this has given all volunteers great one to one training. Our participants have been trained in all aspects of IT from switching on, working with basic microsoft documents, staying safe online, social media to exploring the inside of the machines. Overall this project has allowed our volunteers develop their skills and confidence using IT equipment. 
 
 ### Outputs and outcomes
 
-Overall this project X, Y, Z.
+Overall this project The Spruce Hub has given IT access to individuals who would not normally use internet.
 
 In terms of outputs we delivered A, B and C.
 
@@ -59,9 +59,9 @@ In terms of outcomes for the people and groups we care about, this project has P
 
 Things that worked well:
 
-1. Text
-2. Text
-3. Text
+1. Ease of access to PC's
+2. One to One training
+3. The diversity of training
 
 Things that we would do differently next time:
 
